@@ -1,0 +1,36 @@
+.main-container
+ {
+    margin-top: 90px;
+ }
+
+ .container-details{
+    border-bottom: 1px solid #ccc;
+ }
+
+ .main-buttons-style {
+    background-color: #FF6600;
+    color: white;
+ }
+
+ .main-buttons-style:hover {
+    background-color: white;
+    color:#FF6600;
+    border: 1px solid #FF6600;
+ }
+
+ .secondary-buttons-style {
+    background-color: white;
+    color:#FF6600;
+    border: 1px solid #FF6600;
+ }
+
+ .secondary-buttons-style:hover {
+    background-color: #ff6600;
+    color: white;
+    border: none;
+  }
+
+
+  .desc i {
+   color: #416D19;
+}
